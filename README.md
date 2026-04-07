@@ -137,8 +137,7 @@ main
 .
 ├── README.md
 ├── main.m
-├── report/
-   └── Project.pdf
+├── Project.pdf
 ```
 
 ## What I Learned
